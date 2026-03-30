@@ -1,0 +1,22 @@
+{
+  "address": "14 Sandton Drive, Sandhurst, Sandton",
+  "sellerName": "David & Sarah Cohen",
+  "auctionType": "boardroom",
+  "propertyType": "residential",
+  "maritalStatus": "married_cop",
+  "brokerName": "Marco Gaspar",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "garages": 2,
+  "erfSize": 1200,
+  "floorSize": 380,
+  "p24Url": "https://www.property24.com/for-sale/sandhurst/sandton/gauteng/12345678",
+  "proposedDate": "2026-04-15",
+  "notes": "Corner plot, double street access. Seller motivated — relocating to Cape Town.",
+  "enrichmentProviders": ["lightstone", "p24", "municipal"],
+  "maps": {
+    "provider": "osm",
+    "mode": "static",
+    "view": "road"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "proposal-generator",
+  "name": "Proposal Generator",
+  "description": "Generate branded auction proposals via the Auction Central API",
+  "version": "1.0.0",
+  "files": [
+    "SKILL.md",
+    "scripts/generate-proposal.mjs",
+    "examples/full-property.json",
+    "examples/minimal-property.json",
+    "examples/sample-output.json"
+  ],
+  "requires": {
+    "tools": ["shell"],
+    "env": [
+      "AUCTION_CENTRAL_API_URL"
+    ]
+  }
+}
