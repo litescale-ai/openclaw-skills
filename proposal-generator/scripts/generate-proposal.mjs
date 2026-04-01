@@ -37,7 +37,7 @@ function printUsage() {
   console.log(`
 Usage:
   pnpm --filter @auction-central/api cli:proposal -- --api http://127.0.0.1:8788 --file ./property.json
-  pnpm --filter @auction-central/api cli:proposal -- --api https://api.auctions.litescale.ai --login
+  pnpm --filter @auction-central/api cli:proposal -- --api https://auctions.litescale.ai --login
 
 Environment fallback:
   AUCTION_CENTRAL_API_URL

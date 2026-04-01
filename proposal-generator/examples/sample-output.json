@@ -1,7 +1,9 @@
 {
   "propertyId": "prop_abc123def456",
   "proposalId": "ppl_789ghi012jkl",
-  "shareUrl": "https://app.auctions.litescale.ai/proposals/share/a1b2c3d4e5f6g7h8",
-  "pdfUrl": "https://api.auctions.litescale.ai/api/proposals/share/a1b2c3d4e5f6g7h8/pdf?mapProvider=osm&mapMode=static&mapView=road",
-  "enrichmentProviders": ["lightstone", "p24", "municipal"]
+  "shareUrl": "https://auctions.litescale.ai/proposals/share/a1b2c3d4e5f6g7h8",
+  "pdfUrl": "https://auctions.litescale.ai/api/proposals/share/a1b2c3d4e5f6g7h8/pdf",
+  "enrichmentProviders": ["lightstone", "p24", "municipal"],
+  "downloadedPdfPath": "/tmp/auction-central-proposals/14-sandton-drive-sandhurst-sandton-ppl-789ghi012jkl.pdf",
+  "downloadedPdfName": "14-sandton-drive-sandhurst-sandton-ppl-789ghi012jkl.pdf"
 }

@@ -6,6 +6,7 @@
   "files": [
     "SKILL.md",
     "scripts/generate-proposal.mjs",
+    "scripts/run-proposal-generator.mjs",
     "examples/full-property.json",
     "examples/minimal-property.json",
     "examples/sample-output.json"
